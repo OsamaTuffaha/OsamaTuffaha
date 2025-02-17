@@ -1,8 +1,8 @@
-<h2 align="left">Hi 👋! My name is Abdullah</h2>
+<h2 align="left">Hi 👋! My name is Osama</h2>
 
 ##### 🌟 About Me
-- 💻 I graduated from Al al-bayt university in  major computer information science.
-- 💻 I got a full-stack web development Bootcamp at Meraki academy
+- 💻 I graduated from Al al-bayt University in  major Computer Information Systems (CIS).
+- 💻 I got a full-stack web development Bootcamp at Meraki Academy
 - 🎯 My goal is to sharpen my programming skills 
 ---
 
